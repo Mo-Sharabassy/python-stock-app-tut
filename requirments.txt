@@ -1,4 +1,4 @@
 dotenv
 openai
-requestspytho
-csv
+requests
+snowflake-connector-python
